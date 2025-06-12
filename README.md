@@ -1,6 +1,6 @@
 # INCLIVA - MAESTER
 
-This pipeline is based on the methodology described in the paper by Miller et al. (2022), Mitochondrial variant enrichment from high-throughput single-cell RNA sequencing resolves clonal populations (*Nat Biotechnol* **40**, 1030–1034). The original code and methods have been optimized to improve performance and efficiency. For more details, see: https://doi.org/10.1038/s41587-022-01210-8
+This pipeline is partially based on the methodology described in the paper by Miller et al. (2022), Mitochondrial variant enrichment from high-throughput single-cell RNA sequencing resolves clonal populations (*Nat Biotechnol* **40**, 1030–1034). The original code and methods have been optimized to improve performance and efficiency. For more details, see: https://doi.org/10.1038/s41587-022-01210-8
 
 Repository strucuture is as following:
 
